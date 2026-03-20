@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "name": "Mina Fang",
+    "photo": "photo.jpg",
+    "role": "AI & Data-Driven Product Manager · Northeastern University MSCS Student",
+    "subtitle": "I build products that make data make sense, and use AI to move faster, think deeper, and ship better.",
+    "location": "San Jose, CA",
+    "email": "minafang77@gmail.com",
+    "linkedin": "https://linkedin.com/in/minafang",
+    "github": "https://github.com/minafang",
+    "resumeUrl": "#"
+  },
+
+  "about": {
+    "quote": "I once reduced a 2-workday process to 10 minutes. That kind of leverage is what gets me out of bed.",
+    "motivation": "I came to product management through data. Starting as a researcher in trajectory mining and analytics, I realized the real leverage wasn't in the analysis — it was in building systems that let everyone make better decisions. That pull toward impact at scale is what drew me into PM.",
+    "story": "At China Mobile, I owned a core ordering system processing 100k+ daily orders — and learned that great products live or die in the details of conversion funnels, feedback loops, and cross-functional trust. I shipped everything from a zero-to-one A/B testing platform to an AI chatbot that cut customer complaints by 37%.",
+    "aiView": "We're in a moment where AI isn't just a feature you bolt on — it's reshaping how products are conceived, built, and iterated. I'm especially excited about AI in internal workflows: the boring stuff like onboarding, knowledge bases, and decision pipelines. That's where the compounding gains hide.",
+    "now": "Now at Northeastern's Silicon Valley campus for my MSCS, I'm going deeper on the engineering side — not to become an engineer, but to be a PM who can have the real conversation."
+  },
+
+  "experience": [
+    {
+      "company": "China Mobile Group",
+      "badge": "Fortune Global 500",
+      "role": "Product Manager",
+      "location": "Hangzhou, China",
+      "period": "Aug 2020 – Oct 2023",
+      "type": "fulltime",
+      "highlights": [
+        { "tag": "Growth", "text": "Owned the core SIM card ordering system (100k+ daily orders). Boosted end-to-end conversion 75% (2% → 3.5%) via data-driven persona analysis, lifecycle tracking, and iterative UI/UX optimization." },
+        { "tag": "0→1 Platform", "text": "Spearheaded the company's first internal A/B Testing Platform — defined experiment frameworks and metric systems supporting 150+ experiments/month." },
+        { "tag": "AI · Chatbot", "text": "Designed an intelligent chatbot + knowledge base for sales pages. Reduced customer complaints 37% and inquiry volume 20% while maintaining GMV." },
+        { "tag": "Internal Tool", "text": "Built a visual no-code config tool for sales pages, cutting deployment lead time from 2 workdays to 10 minutes." },
+        { "tag": "Leadership", "text": "Led cross-functional teams across Engineering, Design, and QA for 3 new ordering flows. Mentored 3 junior PMs with structured onboarding paths." }
+      ],
+      "awards": ["China Mobile Innovation Award", "China Mobile Young Professional of the Year"]
+    },
+    {
+      "company": "BanMa · Alibaba × SAIC JV",
+      "badge": "Internship",
+      "role": "Project Manager Intern",
+      "location": "Shanghai, China",
+      "period": "Jun 2019 – Aug 2019",
+      "type": "internship",
+      "highlights": [
+        { "tag": "Strategy", "text": "Benchmarked 5+ vehicle OS platforms across 120+ feature sets to support product differentiation and roadmap development." },
+        { "tag": "PM Ops", "text": "Managed project workflows via Jira, surfacing delivery bottlenecks and cross-functional risks for on-time milestones." }
+      ]
+    },
+    {
+      "company": "Roche Diagnostics",
+      "badge": "Internship",
+      "role": "Data Analyst Intern",
+      "location": "Shanghai, China",
+      "period": "Jul 2018 – Aug 2018",
+      "type": "internship",
+      "highlights": [
+        { "tag": "Data", "text": "Cleaned large-scale regional sales datasets; delivered weekly and monthly dashboards and trend analysis across multiple product lines." }
+      ]
+    }
+  ],
+
+  "aiStack": {
+    "intro": "AI isn't just a tool I use — it's reshaping how I think about product velocity, user research, and decision loops.",
+    "tools": [
+      { "name": "Claude",      "use": "Coding, product thinking, PRD drafting, user research synthesis" },
+      { "name": "Gemini",      "use": "Quick ideation, learning, searching, making plans and schedules" },
+      { "name": "NotebookLM",  "use": "Summarizing, deep learning, building mental models from documents" },
+      { "name": "Notion AI",   "use": "Making notes, knowledge base structuring" }
+    ]
+  },
+
+  "vibeCoding": {
+    "intro": "Side experiments built fast with AI — half lab, half creative outlet.",
+    "projects": [
+      {
+        "title": "NLP Lab",
+        "desc": "Experiments in natural language processing — text classification, sentiment analysis, and embeddings.",
+        "tags": ["Python", "NLP", "sklearn"],
+        "link": "https://github.com/minafang",
+        "image": "",
+        "color": "135deg,#EEF0FA,#C4C8E8",
+        "type": "lab"
+      },
+      {
+        "title": "ML Lab",
+        "desc": "Hands-on machine learning experiments alongside my coursework at Northeastern — regression, trees, neural nets.",
+        "tags": ["Python", "PyTorch", "ML"],
+        "link": "https://github.com/minafang",
+        "image": "",
+        "color": "135deg,#E1F5EE,#9FE1CB",
+        "type": "lab"
+      },
+      {
+        "title": "Spatiotemporal Trajectory Analysis",
+        "desc": "Research-grade trajectory similarity model using shortest time distance subsequence — improved identification accuracy by 15% in experimental validation.",
+        "tags": ["Python", "Data Mining", "Research"],
+        "link": "https://github.com/minafang",
+        "image": "",
+        "color": "135deg,#FAF0EA,#F0C4AC",
+        "type": "lab"
+      },
+      {
+        "title": "Travel Pin",
+        "desc": "An interactive travel map for pinning and collecting places I've been and want to go.",
+        "tags": ["Maps API", "JS"],
+        "link": "https://github.com/minafang",
+        "image": "",
+        "color": "135deg,#F0C4AC,#E8DFD3",
+        "type": "vibe"
+      },
+      {
+        "title": "Personal Website",
+        "desc": "This site — designed and built with Claude, deployed on GitHub Pages.",
+        "tags": ["HTML/CSS", "Claude"],
+        "link": "https://github.com/minafang",
+        "image": "",
+        "color": "135deg,#BED5C5,#D4E8DC",
+        "type": "vibe"
+      },
+      {
+        "title": "English Speaking Trainer",
+        "desc": "A video shadowing tool for practicing English pronunciation by following along with clips.",
+        "tags": ["Video", "Speech API"],
+        "link": "https://github.com/minafang",
+        "image": "",
+        "color": "135deg,#C4C8E8,#E0E2F4",
+        "type": "vibe"
+      }
+    ]
+  },
+
+  "beyond": {
+    "watch": [
+      {
+        "title": "Andrew Ng · Machine Learning",
+        "desc": "The classic ML course — foundational and still the clearest introduction out there.",
+        "url": "https://www.bilibili.com/video/BV1W34y1i7xK?vd_source=4748e4a81a73ced281fdb05e222e0d89&spm_id_from=333.788.videopod.episodes",
+        "source": "Bilibili"
+      },
+      {
+        "title": "Andrew Ng · Deep Learning",
+        "desc": "Deep learning specialization — neural networks, CNNs, sequence models.",
+        "url": "https://www.bilibili.com/video/BV164411m79z?spm_id_from=333.788.videopod.episodes&vd_source=9dcc3801def980fa2c8938196ab81fea",
+        "source": "Bilibili"
+      },
+      {
+        "title": "Let's build GPT from scratch",
+        "desc": "Andrej Karpathy builds a GPT from scratch — the clearest transformer explanation I've found.",
+        "url": "https://youtu.be/kCc8FmEb1nY?si=T-bKgzjAjwNPnhJQ",
+        "source": "YouTube"
+      },
+      {
+        "title": "Intro to Large Language Models",
+        "desc": "Karpathy's 1-hour LLM overview — great for building mental models fast.",
+        "url": "https://youtu.be/zjkBMFhNj_g?si=CHZ2EiWNglLhYCCj",
+        "source": "YouTube"
+      }
+    ],
+    "hobbies": [
+      { "emoji": "🎨", "label": "Drawing" },
+      { "emoji": "🍜", "label": "Food" },
+      { "emoji": "✈️", "label": "Travel" }
+    ]
+  }
+}

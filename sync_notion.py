@@ -13,6 +13,9 @@ sync_notion.py
 
 import json
 import requests
+import os
+
+requests.packages.urllib3.disable_warnings()
 
 # ─────────────────────────────────────────
 # CONFIG — 填你自己的值
@@ -26,16 +29,22 @@ DB_PROJECTS    = "329906e1fb758010ba6ce81ff8076407"
 DB_WATCHLIST   = "329906e1fb758006b109fb2ab02ea26d"
 
 # About 页面 ID（你 CMS 页面里 About 那个子页面的 ID）
-PAGE_ABOUT     = "About-328906e1fb75806eb964e7cef1d96b3e"
+PAGE_ABOUT     = "328906e1fb75806eb964e7cef1d96b3e"
 
 # 输出文件路径（相对于脚本位置，通常和 index.html 在同一目录）
 OUTPUT_PATH    = "data.json"
 # ─────────────────────────────────────────
 
+#HEADERS = {
+#    "Authorization": f"Bearer {NOTION_TOKEN}",
+#    "Notion-Version": "2022-06-28",
+#    "Content-Type": "application/json",
+#}
+
 HEADERS = {
-    "Authorization": f"Bearer {NOTION_TOKEN}",
+    "Authorization": "Bearer " + NOTION_TOKEN,
     "Notion-Version": "2022-06-28",
-    "Content-Type": "application/json",
+    "Content-Type": "application/json; charset=utf-8",
 }
 
 def get_text(prop):

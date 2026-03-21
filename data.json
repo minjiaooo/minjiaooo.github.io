@@ -19,40 +19,6 @@
   },
   "experience": [
     {
-      "company": "BanMa · Alibaba × SAIC JV",
-      "badge": "Internship",
-      "role": "Project Manager Intern",
-      "location": "Shanghai, China",
-      "period": "Jun 2019 – Aug 2019",
-      "type": "internship",
-      "highlights": [
-        {
-          "tag": "Strategy",
-          "text": "Benchmarked 5+ vehicle OS platforms across 120+ feature sets to support product differentiation and roadmap development."
-        },
-        {
-          "tag": "PM Ops",
-          "text": "Managed project workflows via Jira, surfacing delivery bottlenecks and cross-functional risks for on-time milestones."
-        }
-      ],
-      "awards": null
-    },
-    {
-      "company": "Roche Diagnostics",
-      "badge": "Internship",
-      "role": "Data Analyst Intern",
-      "location": "Shanghai, China",
-      "period": "Jul 2018 – Aug 2018",
-      "type": "internship",
-      "highlights": [
-        {
-          "tag": "Data",
-          "text": "Cleaned large-scale regional sales datasets; delivered weekly and monthly dashboards and trend analysis across multiple product lines."
-        }
-      ],
-      "awards": null
-    },
-    {
       "company": "China Mobile Group",
       "badge": "Fortune Global 500",
       "role": "Product Manager",
@@ -85,22 +51,56 @@
         "China Mobile Innovation Award",
         "China Mobile Young Professional of the Year"
       ]
+    },
+    {
+      "company": "BanMa · Alibaba × SAIC JV",
+      "badge": "Internship",
+      "role": "Project Manager Intern",
+      "location": "Shanghai, China",
+      "period": "Jun 2019 – Aug 2019",
+      "type": "internship",
+      "highlights": [
+        {
+          "tag": "Strategy",
+          "text": "Benchmarked 5+ vehicle OS platforms across 120+ feature sets to support product differentiation and roadmap development."
+        },
+        {
+          "tag": "PM Ops",
+          "text": "Managed project workflows via Jira, surfacing delivery bottlenecks and cross-functional risks for on-time milestones."
+        }
+      ],
+      "awards": null
+    },
+    {
+      "company": "Roche Diagnostics",
+      "badge": "Internship",
+      "role": "Data Analyst Intern",
+      "location": "Shanghai, China",
+      "period": "Jul 2018 – Aug 2018",
+      "type": "internship",
+      "highlights": [
+        {
+          "tag": "Data",
+          "text": "Cleaned large-scale regional sales datasets; delivered weekly and monthly dashboards and trend analysis across multiple product lines."
+        }
+      ],
+      "awards": null
     }
   ],
   "aiStack": {
     "intro": "AI isn't just a tool I use — it's reshaping how I think about product velocity, user research, and decision loops.",
     "tools": [
       {
-        "name": "NotebookLM",
-        "use": "Summarizing · deep learning · building mental models from documents"
+        "name": "Claude",
+        "use": "Coding · product thinking · PRD drafting · user research synthesis"
       },
       {
         "name": "Gemini",
         "use": "Quick ideation · learning · searching · making plans and schedules"
       },
       {
-        "name": "Claude",
-        "use": "Coding · product thinking · PRD drafting · user research synthesis"
+        "name": "NotebookLM",
+        "use": "Summarizing · deep learning · building mental models from documents"
       },
       {
         "name": "Notion AI",
@@ -125,16 +125,17 @@
         "type": "lab"
       },
       {
-        "title": "English Speaking Trainer",
-        "desc": "A video shadowing tool for practicing English pronunciation by following along with clips.",
+        "title": "ML Lab",
+        "desc": "Hands-on machine learning experiments alongside my coursework at Northeastern — regression · trees · neural nets.",
         "tags": [
-          "Video",
-          "Speech API"
+          "Python",
+          "PyTorch",
+          "ML"
         ],
         "link": "https://github.com/minafang",
         "image": "",
-        "color": "135deg#C4C8E8#E0E2F4",
-        "type": "vibe"
+        "color": "135deg#E1F5EE#9FE1CB",
+        "type": "lab"
       },
       {
         "title": "Travel Pin",
@@ -149,19 +150,6 @@
         "type": "vibe"
       },
       {
-        "title": "ML Lab",
-        "desc": "Hands-on machine learning experiments alongside my coursework at Northeastern — regression · trees · neural nets.",
-        "tags": [
-          "Python",
-          "PyTorch",
-          "ML"
-        ],
-        "link": "https://github.com/minafang",
-        "image": "",
-        "color": "135deg#E1F5EE#9FE1CB",
-        "type": "lab"
-      },
-      {
         "title": "Personal Website",
         "desc": "This site — designed and built with Claude · deployed on GitHub Pages.",
         "tags": [
@@ -172,28 +160,28 @@
         "image": "",
         "color": "135deg#BED5C5#D4E8DC",
         "type": "vibe"
+      },
+      {
+        "title": "English Speaking Trainer",
+        "desc": "A video shadowing tool for practicing English pronunciation by following along with clips.",
+        "tags": [
+          "Video",
+          "Speech API"
+        ],
+        "link": "https://github.com/minafang",
+        "image": "",
+        "color": "135deg#C4C8E8#E0E2F4",
+        "type": "vibe"
       }
     ]
   },
   "beyond": {
     "watch": [
       {
-        "title": "Intro to Large Language Models",
-        "desc": "Karpathy's 1-hour LLM overview — great for building mental models fast.",
-        "url": "https://youtu.be/zjkBMFhNj_g",
-        "source": "YouTube"
-      },
-      {
         "title": "Andrew Ng · Machine Learning",
         "desc": "The classic ML course — foundational and still the clearest introduction out there.",
         "url": "https://www.bilibili.com/video/BV1W34y1i7xK",
         "source": "Bilibili"
-      },
-      {
-        "title": "Lenny's Newsletter",
-        "desc": "The newest PM information and news",
-        "url": "https://www.lennysnewsletter.com/",
-        "source": "Web / email"
       },
       {
         "title": "Andrew Ng · Deep Learning",
@@ -206,6 +194,18 @@
         "desc": "Andrej Karpathy builds a GPT from scratch — the clearest transformer explanation I've found.",
         "url": "https://youtu.be/kCc8FmEb1nY",
         "source": "YouTube"
+      },
+      {
+        "title": "Intro to Large Language Models",
+        "desc": "Karpathy's 1-hour LLM overview — great for building mental models fast.",
+        "url": "https://youtu.be/zjkBMFhNj_g",
+        "source": "YouTube"
+      },
+      {
+        "title": "Lenny's Newsletter",
+        "desc": "The newest PM information and news",
+        "url": "https://www.lennysnewsletter.com/",
+        "source": "Web / email"
       }
     ],
     "hobbies": [

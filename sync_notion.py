@@ -67,6 +67,7 @@ def block_to_text(block):
 
 def parse_experience():
     rows = query_database(DB_EXPERIENCE)
+    rows.sort(key=lambda r: r["properties"].get("order", {}).get("number") or 999)
     result = []
     for row in rows:
         p = row["properties"]
@@ -93,6 +94,7 @@ def parse_experience():
 
 def parse_ai_stack():
     rows = query_database(DB_AI_STACK)
+    rows.sort(key=lambda r: r["properties"].get("order", {}).get("number") or 999)
     tools = []
     for row in rows:
         p = row["properties"]
@@ -107,6 +109,7 @@ def parse_ai_stack():
 
 def parse_projects():
     rows = query_database(DB_PROJECTS)
+    rows.sort(key=lambda r: r["properties"].get("order", {}).get("number") or 999)
     projects = []
     for row in rows:
         p = row["properties"]
@@ -128,6 +131,7 @@ def parse_projects():
 
 def parse_watchlist():
     rows = query_database(DB_WATCHLIST)
+    rows.sort(key=lambda r: r["properties"].get("order", {}).get("number") or 999)
     watch = []
     for row in rows:
         p = row["properties"]

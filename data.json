@@ -6,12 +6,12 @@
     "subtitle": "I build products that make data make sense, and use AI to move faster, think deeper, and ship better.",
     "location": "San Jose, CA",
     "email": "minafang77@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/minjia-mina-fang-a2871715a",
+    "linkedin": "https://linkedin.com/in/minafang",
     "github": "https://github.com/minjiaooo",
-    "resumeUrl": "resume.pdf"
+    "resumeUrl": "#"
   },
   "about": {
-    "quote": "I once reduced a 2-workday process to 10 minutes. That kind of leverage is what gets me out of bed.",
+    "quote": "I once reduced a 2-workday process to 10 minutes.",
     "motivation": "I came to product management through data. Starting as a researcher in trajectory mining and analytics, I realized the real leverage wasn't in the analysis — it was in building systems that let everyone make better decisions. That pull toward impact at scale is what drew me into PM.",
     "story": "At China Mobile, I owned a core ordering system processing 100k+ daily orders — and learned that great products live or die in the details of conversion funnels, feedback loops, and cross-functional trust. I shipped everything from a zero-to-one A/B testing platform to an AI chatbot that cut customer complaints by 37%.",
     "aiView": "We're in a moment where AI isn't just a feature you bolt on — it's reshaping how products are conceived, built, and iterated. I'm especially excited about AI in internal workflows: the boring stuff like onboarding, knowledge bases, and decision pipelines. That's where the compounding gains hide.",
@@ -125,19 +125,6 @@
         "type": "lab"
       },
       {
-        "title": "Spatiotemporal Trajectory Analysis",
-        "desc": "Research-grade trajectory similarity model using shortest time distance subsequence — improved identification accuracy by 15% in experimental validation.",
-        "tags": [
-          "Python",
-          "Data Mining",
-          "Research"
-        ],
-        "link": "https://github.com/minafang",
-        "image": "",
-        "color": "135deg#FAF0EA#F0C4AC",
-        "type": "lab"
-      },
-      {
         "title": "English Speaking Trainer",
         "desc": "A video shadowing tool for practicing English pronunciation by following along with clips.",
         "tags": [
@@ -201,6 +188,12 @@
         "desc": "The classic ML course — foundational and still the clearest introduction out there.",
         "url": "https://www.bilibili.com/video/BV1W34y1i7xK",
         "source": "Bilibili"
+      },
+      {
+        "title": "Lenny's Newsletter",
+        "desc": "The newest PM information and news",
+        "url": "https://www.lennysnewsletter.com/",
+        "source": "Web / email"
       },
       {
         "title": "Andrew Ng · Deep Learning",

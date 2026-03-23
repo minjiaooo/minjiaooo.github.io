@@ -11,16 +11,16 @@
     "resumeUrl": "resume.pdf"
   },
   "about": {
-    "quote": "I once reduced a 2-workday process to 10 minutes.",
-    "motivation": "I came to product management through data. Starting as a researcher in trajectory mining and analytics, I realized the real leverage wasn't in the analysis — it was in building systems that let everyone make better decisions. That pull toward impact at scale is what drew me into PM.",
-    "story": "At China Mobile, I owned a core ordering system processing 100k+ daily orders — and learned that great products live or die in the details of conversion funnels, feedback loops, and cross-functional trust. I shipped everything from a zero-to-one A/B testing platform to an AI chatbot that cut customer complaints by 37%.",
-    "aiView": "We're in a moment where AI isn't just a feature you bolt on — it's reshaping how products are conceived, built, and iterated. I'm especially excited about AI in internal workflows: the boring stuff like onboarding, knowledge bases, and decision pipelines. That's where the compounding gains hide.",
-    "now": "Now at Northeastern's Silicon Valley campus for my MSCS, I'm going deeper on the engineering side — not to become an engineer, but to be a PM who can have the real conversation."
+    "quote": "Bridging the gap between complex algorithms and user-centric products",
+    "motivation": "📚 I am currently a Master's student in Computer Science at Northeastern University (Silicon Valley).",
+    "story": "📊 Before returning to school, I worked as a Product Manager, where I learned how to measure what matters, run experiments at scale, and translate user behavior into product decisions that actually moved the needle. Through this work, I developed a growing interest in the technical and AI foundations behind impactful products, which motivated me to deepen my computer science training.",
+    "aiView": "Simultaneously, I am a practitioner of AI. I actively track industry frontiers and constantly experiment with new tools, letting real usage transform my workflows and reshape how I solve problems.",
+    "now": "We're in a moment where AI isn't just adding new features — it's reshaping how products are conceived, built, and iterated. It rewrites how we define problems and what we deliver. This is exactly the space that attracts me, and where I want to dive deep and build."
   },
   "experience": [
     {
       "company": "China Mobile Group",
-      "badge": "Fortune Global 500",
+      "badge": "fulltime | Fortune Global 500",
       "role": "Product Manager",
       "location": "Hangzhou, China",
       "period": "Aug 2020 – Oct 2023",

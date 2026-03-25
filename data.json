@@ -120,7 +120,7 @@
           "sklearn"
         ],
         "link": "https://github.com/minjiaooo/NLP-lab-portfolio",
-        "image": "",
+        "image": "images/nlp-lab.png",
         "color": "135deg#EEF0FA#C4C8E8",
         "type": "lab"
       },
@@ -133,7 +133,7 @@
           "ML"
         ],
         "link": "https://github.com/minafang",
-        "image": "",
+        "image": "images/ml-lab.png",
         "color": "135deg#E1F5EE#9FE1CB",
         "type": "lab"
       },
@@ -145,7 +145,7 @@
           "JS"
         ],
         "link": "https://github.com/minafang",
-        "image": "",
+        "image": "images/travel-pin.png",
         "color": "135deg#F0C4AC#E8DFD3",
         "type": "vibe"
       },
@@ -157,7 +157,7 @@
           "Claude"
         ],
         "link": "https://github.com/minjiaooo/minjiaooo.github.io",
-        "image": "",
+        "image": "images/web.png",
         "color": "135deg#BED5C5#D4E8DC",
         "type": "vibe"
       },
@@ -169,7 +169,7 @@
           "Speech API"
         ],
         "link": "https://github.com/minafang",
-        "image": "",
+        "image": "images/speaking.png",
         "color": "135deg#C4C8E8#E0E2F4",
         "type": "vibe"
       }
